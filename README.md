@@ -1,7 +1,7 @@
 ## Install to my computer
 
 # clone this repo
-git clone --recursive-submodules https://github.com/kh11kim/dual_arm_ctrl
+git clone --recursive https://github.com/kh11kim/dual_arm_ctrl
 
 # make new virtual environment (conda)
 * conda create -n dualarm 
